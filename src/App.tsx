@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Home from './pages/Home'
 import About from './pages/About'
 import Experience from './pages/Experience'
-import Contact from './pages/contact'
+import Contact from './pages/Contact'
 import Header from './ui/Header'
 
 function App() {
