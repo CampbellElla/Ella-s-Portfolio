@@ -1,4 +1,3 @@
-import React from 'react'
 import { FaUserEdit } from 'react-icons/fa'
 import { MdOutlineAddToHomeScreen, MdWork } from 'react-icons/md'
 import { RiContactsFill } from 'react-icons/ri'
